@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Around this date in the past Widget\n"
+"Report-Msgid-Bugs-To: Joan Junyent Tarrida <joan@junyent.org>\n"
+"POT-Creation-Date: 2015-12-29 12:53+0100\n"
+"PO-Revision-Date: 2015-12-29 13:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: Joan Junyent Tarrida <joan@junyent.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../around-this-date-last-x-years-widget.php:24
+msgid "[atd] Around This Date Last X Years"
+msgstr "[atd] Per aquestes dates els darrers X anys"
+
+#: ../around-this-date-last-x-years-widget.php:27
+msgid "Display posts around this date for the last X years"
+msgstr "Mostra entrades per aquestes dates els darrers X anys"
+
+#: ../around-this-date-since-year-x-widget.php:24
+msgid "[atd] Around This Date Since Year X"
+msgstr "[atd] Per aquestes dates des de l’any X"
+
+#: ../around-this-date-since-year-x-widget.php:27
+msgid "Display posts around this date since year X"
+msgstr "Mostra entrades per aquestes dates des de l’any X"
+
+#: ../around-this-date-x-years-ago-widget.php:24
+msgid "[atd] Around This Date X Years Ago"
+msgstr "[atd] Per aquestes dates fa X anys"
+
+#: ../around-this-date-x-years-ago-widget.php:27
+msgid "Retreive posts around this date X years ago"
+msgstr "Mostra entrades per aquestes dates fa X anys"
+
+#: ../views/admin.php:6 ../views/last-admin.php:6 ../views/since-admin.php:6
+msgid "Basic options"
+msgstr "Opcions bàsiques"
+
+#: ../views/admin.php:8 ../views/last-admin.php:8 ../views/since-admin.php:8
+msgid "Title: "
+msgstr "Títol"
+
+#: ../views/admin.php:12
+msgid "X years ago: "
+msgstr "Fa X anys: "
+
+#: ../views/admin.php:16 ../views/last-admin.php:16 ../views/since-admin.php:16
+msgid "Days before: "
+msgstr "Dies abans: "
+
+#: ../views/admin.php:20 ../views/last-admin.php:20 ../views/since-admin.php:20
+msgid "Days after: "
+msgstr "Dies després: "
+
+#: ../views/admin.php:24 ../views/last-admin.php:24 ../views/since-admin.php:24
+msgid "Limit of entries: "
+msgstr "Límit d’entrades a mostrar"
+
+#: ../views/admin.php:28 ../views/last-admin.php:28 ../views/since-admin.php:28
+msgid "Text when no entries: "
+msgstr "Text a mostrar si no hi ha entrades"
+
+#: ../views/admin.php:33 ../views/last-admin.php:33 ../views/since-admin.php:33
+msgid "Advanced options"
+msgstr "Opcions avançades"
+
+#: ../views/admin.php:35 ../views/last-admin.php:35 ../views/since-admin.php:35
+msgid "Show excerpt"
+msgstr "Mostrar l’extracte"
+
+#: ../views/admin.php:39 ../views/last-admin.php:39 ../views/since-admin.php:39
+msgid "Show year"
+msgstr "Mostrar l’any"
+
+#: ../views/admin.php:43 ../views/last-admin.php:43 ../views/since-admin.php:43
+msgid "Show date"
+msgstr "Mostrar la data"
+
+#: ../views/admin.php:47 ../views/last-admin.php:47 ../views/since-admin.php:47
+msgid "Date format: "
+msgstr "Format de la data"
+
+#: ../views/admin.php:47 ../views/last-admin.php:47 ../views/since-admin.php:47
+msgid "See PHP Date Manual"
+msgstr "Veure el manual de dates de PHP"
+
+#: ../views/last-admin.php:12
+msgid "Last X years: "
+msgstr "Els darrers X anys: "
+
+#: ../views/since-admin.php:12
+msgid "Since year X: "
+msgstr "Des de l’any X: "
